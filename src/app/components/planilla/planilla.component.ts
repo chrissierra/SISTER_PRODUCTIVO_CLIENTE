@@ -8,7 +8,7 @@ import { PlanillaservicesService } from '../../services/planillaservices.service
 export class PlanillaComponent {
 empleados: any;
 buscador: any;
-
+name:any;
   constructor(private planillaServicio_: PlanillaservicesService) {
 
 
